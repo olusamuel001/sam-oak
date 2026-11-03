@@ -34,7 +34,7 @@ The website reflects the atmosphere of a luxury restaurant, featuring elegant la
 
 <!-- Add your website screenshots here -->
 
-![Sam & Oak Restaurant Preview](./)
+![Sam & Oak Restaurant Preview](./sam and oak.png)
 
 ## 🚀 Getting Started
 
