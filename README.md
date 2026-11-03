@@ -70,7 +70,7 @@ Frontend Developer | HTML | CSS | JavaScript
 
 - Portfolio: [My Portfolio](olumide-abifade-portfolio.vercel.app
 )
-- GitHub: [My GitHub](YOUR_GITHUB_URL)
+- GitHub: [My GitHub](https://github.com/olusamuel001)
 
 ## ⭐ Support
 
